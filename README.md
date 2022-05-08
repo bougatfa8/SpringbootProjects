@@ -1,8 +1,13 @@
-# Fashion backend  create read update delete from sql database(CRUD)
-# Spring Message backend spring boot frontend thymeleaf j'utilises websocket pour les messages instants
-# ecommerce  (CRUD)
-# school  (CRUD)
-# login j'utilises spring security, JWT,auth0
+# Fashion backend 
+Create read update delete from sql database(CRUD)
+# Spring Message 
+Backend spring boot frontend thymeleaf j'utilises websocket pour les messages instants
+# ecommerce 
+Create read update delete from database
+# school  
+Create read update delete from sql database(CRUD)
+# login
+Spring security, JWT,auth0
 
 
 
